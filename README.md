@@ -2,5 +2,5 @@
 - Conduct Explatory Data Analysis
 - Run Logistics Regression and Gradient Boosted Tree on the preprocessed data
 
-* To do:
+To do:
 - Conduct hypothesis testing for feature selections
